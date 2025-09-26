@@ -19,7 +19,7 @@ The chatbot runs on a Streamlit web UI, making it simple and interactive.
 
 Here’s a quick look at the chatbot in action:
 
-(Replace ./assets/screenshot.png with the path/URL to your actual screenshot. You can host it inside an assets/ folder in the repo.)
+streamlit_SS/Screenshot 2025-09-26 165707.png
 
 🚀 Features
 
