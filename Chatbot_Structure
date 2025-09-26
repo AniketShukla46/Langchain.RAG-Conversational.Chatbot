@@ -1,0 +1,8 @@
+LionO_Chatbot/
+│── app.py                  # Streamlit chatbot UI
+│── my_rag_pipeline.py      # RAG pipeline (data loaders, embeddings, retriever, chain)
+│── pdf_and_urls            # Example DOCX (replace with your data)
+│── requirements.txt        # Dependencies
+│── README.md               # Project documentation
+│── Streamlit_SS/                 # Store screenshots/images here
+│    └── screenshot.png
